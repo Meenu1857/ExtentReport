@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-server-4.0.0-beta-3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-html-runner-4.0.0-beta-3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Extent jar files/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Extent jar files/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Extent jar files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Extent jar files/extentreports-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Extent jar files/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Extent jar files/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Extent jar files/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Extent jar files/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Extent jar files/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Extent jar files/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Extent jar files/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Extent jar files/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/extent jar files1/extentreports-5.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/extent jar files1/freemarker-2.3.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/extent jar files1/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/extent jar files1/lombok-1.18.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/extent jar files1/reactive-streams-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/extent jar files1/rxjava-3.0.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
